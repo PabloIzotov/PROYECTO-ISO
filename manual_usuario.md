@@ -49,7 +49,7 @@ Instalación:
 ```bash
 sudo apt install mailutils
 ```  
-Configuración:
+Configuración:  
 .mailrc
 ```bash
 set smtp-auth=login
