@@ -1,20 +1,17 @@
-## Manual de usuario
-# Fetchmail:
+# Manual de usuario
+## Fetchmail:
 Instalación:  
 ```bash
 sudo apt install fetchmail
 ```  
-Configuración:
+Configuración:  
 ~/.fetchmailrc
+```bash
 poll imap.gmail.com protocol IMAP
 user "soporte1013@gmail.com" with password "ttgr flfu admv mgpt"
 is pablo here
 mda "/usr/bin/procmail -d %T"
-Desafíos:
-La contraseña que se debía introducir es la de aplicación.
-Para ello fue necesario activar medidas de seguridad como
-la autenticación en dos pasos para obtener una clave de aplicación.
-El fichero /var/mail/pablo no se generaba de forma automática, por lo que fue necesario crearlo mediante touch
+```  
 
 Script de procesamiento de correos:
 Función: leer el fichero /var/mail/pablo, separar cada correo, decodificarlo en base64 y almacenarlos en archivos individuales
