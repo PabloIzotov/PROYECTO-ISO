@@ -46,7 +46,8 @@ ollama run llama3:8b
 ```  
 ## Mailutils
 Instalación:
-```bash sudo apt install mailutils
+```bash
+sudo apt install mailutils
 ```  
 Configuración:
 .mailrc
@@ -55,5 +56,5 @@ set smtp-auth=login
 set smtp-auth-user=soporte1013@gmail.com
 set smtp-auth-password=”ttgr flfu admv mgpt”
 set from="soporte1013@gmail.com pablo"
-```
 set ssl-verify=ignore
+```
