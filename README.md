@@ -9,5 +9,7 @@ instalacion_ollama_gpu.pdf - Muestra la preparación necesaria para utilizar Oll
 
 ## Autores
 Pablo Izotov Opalyuk
+
 Sergio Tomico Díaz de Mera
+
 Michael Romero Limaico
