@@ -5,6 +5,7 @@ Este proyecto propone implementar un sistema para la automatización de la recep
 ## Estructura del Repositorio
 instalacion_grafana.pdf - Muestra el proceso de instalación y preparación de grafana + prometheus
 instalacion_ollama.pdf - Muestra la instalación de Ollama en Linux
+integracion_monitorizacion_grafica.pdf - Muestra el proceso de integración de GPU en Ollma y su monitorización con Grafana
 
 ## Características del sistema
 - Recepción de correos usando fetchmail.
