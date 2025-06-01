@@ -4,6 +4,7 @@
 sudo apt update
 ```
 ## Ollama:
+```bash
 ollama update
 ```
 ## Modelo LLM:
