@@ -1,4 +1,4 @@
-# Sistema de Automatización de Correos con IA
+# Sistema de Resolución de Incidencias con IA
 
 Este proyecto propone implementar un sistema para la automatización de la recepción, procesamiento y respuesta de correos electrónicos utilizando una IA local (llama3 utilizando Ollama). También se incluye monitorización del sistema mediante Grafana y Prometheus.
 
@@ -6,6 +6,12 @@ Este proyecto propone implementar un sistema para la automatización de la recep
 instalacion_grafana.pdf - Muestra el proceso de instalación de grafana + prometheus
 instalacion_ollama_gpu.pdf - Muestra la preparación necesaria para utilizar Ollama con GPU
 
+## Características del sistema
+- Recepción de correos usando fetchmail.
+- Procesamiento y separación de mensajes con scripts automatizados.
+- Uso de IA local para generar respuestas inteligentes.
+- Envío de respuestas con mailutils.
+- Monitorización de rendimiento con Prometheus y visualización con Grafana.
 
 ## Autores
 Pablo Izotov Opalyuk
