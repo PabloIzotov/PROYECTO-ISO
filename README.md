@@ -3,9 +3,8 @@
 Este proyecto propone implementar un sistema para la automatización de la recepción, procesamiento y respuesta de correos electrónicos utilizando una IA local (llama3 utilizando Ollama). También se incluye monitorización del sistema mediante Grafana y Prometheus.
 
 ## Estructura del Repositorio
-instalacion_grafana.pdf - Muestra el proceso de instalación de grafana + prometheus
+instalacion_grafana.pdf - Muestra el proceso de instalación y preparación de grafana + prometheus
 instalacion_ollama_linux - Muestra la instalación de Ollama en Linux
-instalacion_ollama_windows_gpu.pdf - Muestra la preparación necesaria para utiliza Ollama con GPU en Windows
 
 ## Características del sistema
 - Recepción de correos usando fetchmail.
