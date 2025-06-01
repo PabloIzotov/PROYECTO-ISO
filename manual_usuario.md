@@ -2,7 +2,8 @@
 # Fetchmail:
 Instalación:  
 ```bash
-sudo apt install fetchmail```  
+sudo apt install fetchmail
+```  
 Configuración:
 ~/.fetchmailrc
 poll imap.gmail.com protocol IMAP
