@@ -1,13 +1,13 @@
 # Actualizaciones  
 ## Sistema operativo
-'''bash
+```bash
 sudo apt update
-'''  
-'''bash
+```
+```bash
 ## Ollama:
 ollama update
-'''  
+```
 ## Modelo LLM:
-'''bash
+```bash
 ollama pull llama3:8b
-'''
+```
