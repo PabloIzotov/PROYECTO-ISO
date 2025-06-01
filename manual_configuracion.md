@@ -1,4 +1,4 @@
-# Manual de usuario
+# Manual de configuración básica
 ## Fetchmail:
 Función: obtener los correos electrónicos de la bandeja de entrada  
 Instalación:  
