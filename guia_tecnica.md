@@ -3,7 +3,6 @@
 ```bash
 sudo apt update
 ```
-```bash
 ## Ollama:
 ollama update
 ```
